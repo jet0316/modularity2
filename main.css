@@ -1,0 +1,9 @@
+.center {
+	text-align: center;
+}
+
+.center *{
+	margin: auto;
+	display: inline-block;
+	padding: 20px;
+}
